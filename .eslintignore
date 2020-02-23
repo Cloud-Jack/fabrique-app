@@ -1,0 +1,15 @@
+# Common
+node_modules
+dist
+
+#coverage
+# Examples
+
+## cofeescript
+# examples/coffeescript/pages/index.vue
+
+# Packages
+
+# vue-app
+# packages/vue-app/template
+# !packages/vue-app/template/store.js
